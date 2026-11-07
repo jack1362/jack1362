@@ -1,8 +1,8 @@
-<p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Jack Lenhart — Software Engineer" />
-</p>
+# Jack Lenhart
 
-<p align="center">
+**Software Engineer · Computer Science @ University of Florida**
+
+<p>
   <a href="https://jacklenhart.com"><img src="https://img.shields.io/badge/PORTFOLIO-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://jacklenhart.com/Jack_Lenhart_Resume.pdf"><img src="https://img.shields.io/badge/RÉSUMÉ-8250DF?style=for-the-badge&logo=readme&logoColor=white" alt="Résumé" /></a>
   <a href="https://www.linkedin.com/in/jack-lenhart-a86214292"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
